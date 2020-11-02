@@ -6,7 +6,7 @@ syntax enable
 
 set tabstop=2
 set shiftwidth=2
-set softtabstop=2" only plebs use tabs
+set softtabstop=2
 set expandtab
 set autoindent
 
