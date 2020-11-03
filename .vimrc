@@ -1,7 +1,3 @@
-call pathogen#infect()
-
-set background=dark
-colorscheme solarized
 syntax enable
 
 set tabstop=2
@@ -13,7 +9,7 @@ set autoindent
 set number " line numbers
 set showcmd
 
-set cursorline "highlights the line you're on
+set cursorline "highlights the current line
 
 set wildmenu " autocomplete commands
 
@@ -26,7 +22,7 @@ nnoremap <leader><space> :nohlsearch<CR> " stops highlighting after space
 
 nnoremap gV `[v']
 
-" your pinky will thank you later
+" replace esc
 inoremap jk <esc>
 
 " 
