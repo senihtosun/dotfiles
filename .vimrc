@@ -1,4 +1,8 @@
 syntax on
+set termguicolors
+set background=dark
+colorscheme <color>
+
 set tabstop=2
 set shiftwidth=2
 set expandtab
